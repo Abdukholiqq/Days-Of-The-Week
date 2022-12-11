@@ -1,0 +1,38 @@
+body{
+    background-color: darkslategray;
+}
+.card{
+    width: 450px;
+    min-height: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: cyan;
+}
+form{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    padding-top: 20px;
+    gap: 50px;
+}
+#number{
+    width: 230px;
+    height: 20px;
+    padding: 5px 15px;
+    font-size: 25px;
+    border-radius: 5px;
+    border-style: ridge;
+}
+button{
+    padding: 5px ;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid dimgray;
+}
+.days{
+    margin-left: 115px;
+    padding-top: 10px;
+    font-size: 48px;
+    color: green;
+}
